@@ -21,6 +21,11 @@ $ pipenv install
 $ python manage.py migrate
 ```
 
+boot
+```
+$ python manage.py runserver 0.0.0.0:8000
+```
+
 ## Setting
 
 Go to http://localhost:8000/admin/.
